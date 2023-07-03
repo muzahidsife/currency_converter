@@ -1,3 +1,6 @@
+
+print("This currency value is applicable only for 7/3/2023.")
+
 exchange_rates = {
     'USD': {'BDT': 108.23, 'EUR': 0.92, 'CNY': 7.18, 'RUB': 84.18},
     'BDT': {'USD': 0.0092, 'EUR': 0.0085, 'CNY': 0.067, 'RUB': 0.79},
